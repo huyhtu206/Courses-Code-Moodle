@@ -60,6 +60,11 @@ $string['status_pending'] = 'Chờ duyệt';
 $string['status'] = 'Trạng thái';
 $string['back_to_course'] = 'Quay lại khóa học';
 $string['manage_courses'] = 'Mã khóa học & Duyệt học viên';
+$string['course'] = 'Khóa học';
+$string['settings_saved'] = 'Đã lưu cài đặt thành công.';
+$string['approved_success'] = 'Đã duyệt học sinh thành công.';
+$string['rejected_success'] = 'Đã từ chối yêu cầu tham gia.';
+$string['codes_regenerated'] = 'Đã tạo lại mã khóa học mới thành công.';
 
 // Join page & modal
 $string['joincourse'] = 'Tham gia khóa học';

@@ -59,7 +59,12 @@ $string['status_rejected'] = 'Rejected';
 $string['status_pending'] = 'Pending';
 $string['status'] = 'Status';
 $string['back_to_course'] = 'Back to course';
-$string['manage_courses'] = 'Course code & Approvals';
+$string['manage_courses'] = 'Course code & Student approval';
+$string['course'] = 'Course';
+$string['settings_saved'] = 'Settings saved successfully.';
+$string['approved_success'] = 'Student request approved successfully.';
+$string['rejected_success'] = 'Student request rejected.';
+$string['codes_regenerated'] = 'Course code regenerated successfully.';
 
 // Join page & modal
 $string['joincourse'] = 'Join course';
